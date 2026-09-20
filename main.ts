@@ -7,3 +7,6 @@ basic.forever(function () {
         radio.sendString("Chut")
     }
 })
+basic.forever(function () {
+	
+})
